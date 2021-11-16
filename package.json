@@ -1,0 +1,31 @@
+{
+  "name": "orca-affairs",
+  "version": "1.0.0",
+  "description": "Orca Affairs website modules",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alespetrovacki@bitbucket.org/orca_affairs/orca-affairs.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Aleš Petrovački",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/orca_affairs/orca-affairs#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {}
+}

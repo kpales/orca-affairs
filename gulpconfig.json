@@ -1,0 +1,9 @@
+{
+  "browserSyncOptions": {
+    "proxy": "http://localhost/mcb/",
+    "port": 1234,
+    "ui": {
+      "port": 1235
+    }
+  }
+}
